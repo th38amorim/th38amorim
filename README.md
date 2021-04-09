@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th38amorim&label=Profile%20views&color=0e75b6&style=flat" alt="th38amorim" /> </p>
 
-- 🔭 Estou trabalhando atualmente **Alphacode IT Solutions**
+- 📄 Sobre mim... Estou no primeiro semestre do curso de Tecnologia em Ciência de Dados e participo do grupo MAIA (Mobilidade Aplicada e Inteligência Artificial). Consegui recentemente o primeiro trabalho oficial como progamador no cargo de Desenvolvedor Junior.
+
+- 🔭 Estou trabalhando atualmente **Alphacode IT Solutions no setor de desenvolvimento mobile**
 
 - 🌱 Estou aprendendo atualmente **PHP e MySQL e aprimorando conhecimentos de Flutter**
 
 - 📫 Fale comigo **thiago38.dev@gmail.com**
-
-- 📄 Sobre mim... Estou no primeiro semestre do curso de Tecnologia em Ciência de Dados e participo do grupo MAIA (Mobilidade Aplicada e Inteligência Artificial). Consegui recentemente o primeiro trabalho oficial como progamador no cargo de Desenvolvedor Junior.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
