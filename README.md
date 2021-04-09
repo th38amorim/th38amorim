@@ -9,7 +9,7 @@
 
 - 📫 Fale comigo **thiago38.dev@gmail.com**
 
-- 📄 Sobre mim... [Estou no primeiro semestre do curso de Tecnologia em Ciência de Dados e participo do grupo MAIA (Mobilidade Aplicada e Inteligência Artificial). Consegui recentemente o primeiro trabalho oficial como progamador no cargo de Desenvolvedor Junior.](Estou no primeiro semestre do curso de Tecnologia em Ciência de Dados e participo do grupo MAIA (Mobilidade Aplicada e Inteligência Artificial). Consegui recentemente o primeiro trabalho oficial como progamador no cargo de Desenvolvedor Junior.)
+- 📄 Sobre mim... Estou no primeiro semestre do curso de Tecnologia em Ciência de Dados e participo do grupo MAIA (Mobilidade Aplicada e Inteligência Artificial). Consegui recentemente o primeiro trabalho oficial como progamador no cargo de Desenvolvedor Junior.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
