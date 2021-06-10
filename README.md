@@ -5,9 +5,9 @@
 
 - 📄 Sobre mim... Estou no primeiro semestre do curso de Tecnologia em Ciência de Dados e participo do grupo MAIA (Mobilidade Aplicada e Inteligência Artificial). Consegui recentemente o primeiro trabalho oficial como progamador no cargo de Desenvolvedor Junior.
 
-- 🔭 Estou trabalhando atualmente **Alphacode IT Solutions no setor de desenvolvimento mobile**
+- 🔭 Estou trabalhando atualmente na **Alphacode IT Solutions no setor de desenvolvimento mobile**
 
-- 🌱 Estou aprendendo **PHP e MySQL e aprimorando conhecimentos de Flutter**
+- 👨🏻‍💻 Estou na equipe de Delivery **Trabalhado e aprimorando os meus conhecimentos em Flutter**
 
 - 📫 Fale comigo **thiago38.dev@gmail.com**
 
