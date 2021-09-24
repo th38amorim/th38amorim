@@ -9,6 +9,7 @@
 Desenvolvedor Mobile Júnior na **Alphacode IT Solutions**.
 
 - Flutter 
+- Firebase (Real Time, Data Base, Remont Config)
 - Clean Architecture
 - DDD Architecture
 - API REST
