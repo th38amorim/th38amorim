@@ -6,7 +6,7 @@
 📄 Sobre mim...  
 
 
-Desenvolvedor Mobile Júnior na **Alphacode IT Solutions**.
+Desenvolvedor Mobile na **Datainfo**.
 
 - Flutter 
 - Firebase (Real Time, Data Base, Remont Config)
