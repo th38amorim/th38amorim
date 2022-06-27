@@ -1,4 +1,4 @@
-<h1 align="center">Olá, meu nome é Thiago Amorim</h1>
+<h1 align="center">Thiago Amorim</h1>
 <h3 align="center">Desenvolvedor Flutter | Tecnologia em Ciência de Dados</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th38amorim&label=Profile%20views&color=0e75b6&style=flat" alt="th38amorim" /> </p>
