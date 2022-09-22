@@ -7,14 +7,14 @@
 
 Desenvolvedor Mobile
 
-• Flutter
-• BLoC (Cubit)
-• REST API
-• Design Thinking
-• Planning
-• Git
-• Clean Code
-• SCRUM 
+- Flutter
+- BLoC (Cubit)
+- REST API
+- Design Thinking
+- Planning
+- Git
+- Clean Code
+- SCRUM 
 
 Cursando Tecnologia em Ciência de Dados.
 
