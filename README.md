@@ -5,25 +5,26 @@
 
 📄 Sobre mim...  
 
+Desenvolvedor Mobile
 
-Desenvolvedor Mobile na **Datainfo**.
-
-- Flutter 
-- Firebase (Real Time, Data Base, Remont Config)
-- Clean Architecture
-- DDD Architecture
-- API REST
-- Git
+• Flutter
+• BLoC (Cubit)
+• REST API
+• Design Thinking
+• Planning
+• Git
+• Clean Code
+• SCRUM 
 
 Cursando Tecnologia em Ciência de Dados.
 
-Participo do centro de inovação MAIA (Mobilidade Aplicada e Inteligência Artificial), atuando atualmente no projeto Donkey Car - Veículos Autônomos em Escala.
+Participo do centro de inovação MAIA (Mobilidade Aplicada e Inteligência Artificial), atualmente trabalhando no projeto Donkey Car - Veículos Autônomos em Escala.
 
-<h4>Trabalhado e aprimorando os conhecimentos em Flutter</h4>
+<h4>Trabalhando e aprimorando os conhecimentos em Flutter</h4>
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/thiago-amorim-38b83a1a7/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/thiago-amorim-38b83a1a7/" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/th38amorim/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/th38amorim/" height="40" width="40" /></a>
 <a href="mailto:thiago.amorimsilva38@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="https://stackoverflow.com/users/13585923/th38amorim" height="45" width="45" /></a>
 <a href="https://discord.gg/𝙩𝙝𝙞𝙖𝙜𝙤#9735" target="blank"><img align="center" src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-7-1.png" alt="𝙩𝙝𝙞𝙖𝙜𝙤#9735" height="45" width="45" /></a>
 </p>
