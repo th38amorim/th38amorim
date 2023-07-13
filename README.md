@@ -7,17 +7,17 @@
 
 Desenvolvedor Mobile na LeftBank, com experiência em:
 
-• Flutter
-• BLoC
-• Multi-Repo
-• API REST
-• Clean Code
-• Clean Architecture
-• Integração com API's (RESTful services)
-• SOLID
-• Testes de integração
-• Micro Front-end
-• Publicação nas lojas - Google Play/App Store
+- Flutter
+- BLoC
+- Multi-Repo
+- API REST
+- Clean Code
+- Clean Architecture
+- Integração com API's (RESTful services)
+- SOLID
+- Testes de integração
+- Micro Front-end
+- Publicação nas lojas - Google Play/App Store
 
 Entusiasta do Flutter, dedicado a aprender e aplicar as mais recentes tendências no desenvolvimento mobile.
 
