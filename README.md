@@ -5,9 +5,8 @@
 
 📄 Sobre mim...  
 
-Desenvolvedor Mobile na LeftBank, com experiência em:
+Desenvolvedor Mobile Flutter, com experiência em:
 
-- Flutter
 - BLoC
 - Multi-Repo
 - API REST
