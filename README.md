@@ -20,7 +20,7 @@ Desenvolvedor Mobile Flutter, com experiência em:
 
 Entusiasta do Flutter, dedicado a aprender e aplicar as mais recentes tendências no desenvolvimento mobile.
 
-Me graduando em Ciência de Dados.
+Graduado em Ciência de Dados.
 
 <h3 align="left">Fale comigo:</h3>
 <p align="left">
