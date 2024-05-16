@@ -1,30 +1,26 @@
 <h1 align="center">Thiago Amorim</h1>
-<h3 align="center">Desenvolvedor Mobile Flutter</h3>
-
+<h3 align="center">Flutter Mobile Developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th38amorim&label=Profile%20views&color=0e75b6&style=flat" alt="th38amorim" /> </p>
+📄 About me...
 
-📄 Sobre mim...  
+Flutter Mobile Developer with experience in:
 
-Desenvolvedor Mobile Flutter, com experiência em:
+BLoC
+Multi-Repo
+REST API
+Clean Code
+Clean Architecture
+Integration with APIs (RESTful services)
+SOLID
+Integration tests
+Micro Front-end
+Publishing on stores - Google Play/App Store
+Flutter enthusiast, dedicated to learning and applying the latest trends in mobile development.
 
-- BLoC
-- Multi-Repo
-- API REST
-- Clean Code
-- Clean Architecture
-- Integração com API's (RESTful services)
-- SOLID
-- Testes de integração
-- Micro Front-end
-- Publicação nas lojas - Google Play/App Store
+Graduated in Data Science.
 
-Entusiasta do Flutter, dedicado a aprender e aplicar as mais recentes tendências no desenvolvimento mobile.
-
-Graduado em Ciência de Dados.
-
-<h3 align="left">Fale comigo:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/th38amorim/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="https://www.linkedin.com/in/th38amorim/" height="40" width="40" /></a>
 </p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th38amorim&" alt="th38amorim" /></p>
