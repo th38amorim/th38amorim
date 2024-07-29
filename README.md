@@ -5,17 +5,17 @@
 
 Flutter Mobile Developer with experience in:
 
-BLoC
-Multi-Repo
-REST API
-Clean Code
-Clean Architecture
-Integration with APIs (RESTful services)
-SOLID
-Integration tests
-Micro Front-end
-Publishing on stores - Google Play/App Store
-Flutter enthusiast, dedicated to learning and applying the latest trends in mobile development.
+- BLoC
+- Multi-Repo
+- REST API
+- Clean Code
+- Clean Architecture
+- Integration with APIs (RESTful services)
+- SOLID
+- Integration tests
+- Micro Front-end
+- Publishing on stores - Google Play/App Store
+- Flutter enthusiast, dedicated to learning and applying the latest trends in mobile development
 
 Graduated in Data Science.
 
