@@ -1,23 +1,24 @@
 <h1 align="center">Thiago Amorim</h1>
-<h3 align="center">Flutter Mobile Developer</h3>
+<h3 align="center">Mobile Developer and Data Scientist</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=th38amorim&label=Profile%20views&color=0e75b6&style=flat" alt="th38amorim" /> </p>
 📄 About me...
 
-Flutter Mobile Developer with experience in:
+With solid experience in mobile development, especially in Flutter, and a background in Data Science.
 
-- BLoC
-- Multi-Repo
-- REST API
-- Clean Code
-- Clean Architecture
-- Integration with APIs (RESTful services)
-- SOLID
-- Integration tests
-- Micro Front-end
-- Publishing on stores - Google Play/App Store
-- Flutter enthusiast, dedicated to learning and applying the latest trends in mobile development
+**Mobile Development Experience:**
+- Proficiency in Flutter, focusing on creating responsive and high-performance applications
+- Experienced with design patterns such as BLoC, Multi-Repo, and Clean Architecture
+- Skilled in integrating with RESTful APIs, ensuring effective communication between back-end and front-end
+- Knowledgeable in practices like SOLID and integration testing to ensure software quality and reliability
+- Experience in Micro Front-end and publishing apps on the Google Play Store and App Store
 
-Graduated in Data Science.
+Flutter enthusiast, constantly seeking to stay updated with the latest trends in mobile development.
+
+**Apps I Worked On:**
+- [Genial Investimentos](https://apps.apple.com/br/app/genial-investimentos/id1501881719)
+- [Cabana Burger](https://play.google.com/store/apps/details?id=cabana.alphacode.com.br&hl=pt_BR&pli=1)
+- [Copel](https://play.google.com/store/apps/details?id=com.copel.mbf&hl=pt_BR)
+- [Left](https://apps.apple.com/br/app/left/id6444623738)
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
