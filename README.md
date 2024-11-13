@@ -15,10 +15,12 @@ With solid experience in mobile development, especially in Flutter, and a backgr
 Flutter enthusiast, constantly seeking to stay updated with the latest trends in mobile development.
 
 **Apps I Worked On:**
-- [Genial Investimentos](https://apps.apple.com/br/app/genial-investimentos/id1501881719)
-- [Cabana Burger](https://play.google.com/store/apps/details?id=cabana.alphacode.com.br&hl=pt_BR&pli=1)
-- [Copel](https://play.google.com/store/apps/details?id=com.copel.mbf&hl=pt_BR)
-- [Left](https://apps.apple.com/br/app/left/id6444623738)
+- [Genial Investimentos](https://apps.apple.com/br/app/genial-investimentos/id1501881719)  
+- [Cabana Burger](https://play.google.com/store/apps/details?id=cabana.alphacode.com.br&hl=pt_BR&pli=1)  
+- [Copel](https://play.google.com/store/apps/details?id=com.copel.mbf&hl=pt_BR)  
+- [Left](https://apps.apple.com/br/app/left/id6444623738)  
+  *I developed this app from scratch, managing the entire process from architecture design to its successful release on the Google Play Store and App Store. I applied best practices, patterns, and modern methodologies to ensure a high-quality product.*
+
 
 <h3 align="left">Contact me:</h3>
 <p align="left">
